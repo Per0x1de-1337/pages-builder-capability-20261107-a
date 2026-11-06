@@ -1,0 +1,6 @@
+title: Pages builder capability probe
+description: Sanitized, benign GitHub bounty capability probe
+theme: null
+kramdown:
+  forbidden_inline_options: []
+
